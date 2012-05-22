@@ -1,5 +1,17 @@
 #!/usr/bin/python
 # -*- coding: utf-8 *-*
+"""
+Este codigo es para aprender a usar SqlAlchemy ORM
+Es un codigo muy simple que lo unico que hace es crear un tabla, agregar
+registros, listarlos de diferentes maneras y borrar
+"""
+__prj__ = 'sqlAlchemyTest'
+__version__ = ''
+__license__ = 'GNU General Public License v3'
+__author__ = 'marcelo'
+__email__ = 'marcelo.martinovic@gmail.com'
+__url__ = ''
+__date__ = '2012/05/21'
 
 from sqlalchemy import *
 from sqlalchemy.sql import select
