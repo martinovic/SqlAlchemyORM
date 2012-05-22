@@ -1,0 +1,6 @@
+{
+  "venv": "", 
+  "name": "sqlAlchemyTest", 
+  "license": "GNU General Public License v3", 
+  "description": "Pruebas y test con sqlAlchemy"
+}
