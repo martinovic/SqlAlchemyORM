@@ -1,9 +1,13 @@
 #!/usr/bin/python
 # -*- coding: utf-8 *-*
+
 """
 Este codigo es para aprender a usar SqlAlchemy ORM
 Es un codigo muy simple que lo unico que hace es crear un tabla, agregar
-registros, listarlos de diferentes maneras y borrar
+registros, listarlos de diferentes maneras y borrar.
+
+Sepan disculpar la desprolijidad pero es full para aprender
+
 """
 __prj__ = 'sqlAlchemyTest'
 __version__ = ''
@@ -90,3 +94,5 @@ resultado = conn.execute(qryObj)
 # - Recorro el resultado
 for row in resultado:
     print row
+
+# fin
