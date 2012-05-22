@@ -7,7 +7,7 @@ Es un codigo muy simple que lo unico que hace es crear un tabla, agregar
 registros, listarlos de diferentes maneras y borrar.
 
 Sepan disculpar la desprolijidad pero es full para aprender
-
+Saludos al que sufra mi codigo... y perdon !!!
 """
 __prj__ = 'sqlAlchemyTest'
 __version__ = ''
